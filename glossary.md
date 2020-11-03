@@ -2,7 +2,7 @@
 
 <ul>
 <li><i><b>asynchronously</b></i></li>
-The reason why i just this word is because i personally believe, that this is one of the most fundamental concepts of message brokers / messaging systems, that also divides from a lot of the alternatives we can use, when we take about system design, and more specifically system integration.
+The reason why i just this word is because i personally believe, that this is one of the most fundamental concepts of message brokers / messaging systems, that also divides from a lot of the alternatives we can use, when we take about  system design, and more specifically system integration.
 
 The main difference between Http and message brokers (here we could take about a specific protocol like <i>ampq</i>, which is used in RabbitMQ for example), is that by default Http is <b>synchronous</b>, whereas message brokers are <b>asynchronous</b>.
 
